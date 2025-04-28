@@ -8,6 +8,6 @@ This project analyzes Walmart store sales using advanced MySQL techniques like c
 
 * Revenue growth insights using SQL
 
-  # Tool Used
+# Tool Used
   * MySQL
   * SQL Workbench
